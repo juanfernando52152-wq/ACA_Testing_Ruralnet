@@ -1,0 +1,23 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #f5fff8 0%, #e8f7ed 100%);
+    min-height: 100vh;
+    display: flex; align-items: center; justify-content: center;
+    padding: 20px; margin: 0;
+}
+.card-cambio {
+    background: white; border-radius: 20px;
+    box-shadow: 0 20px 60px rgba(33, 177, 78, 0.15);
+    padding: 36px; max-width: 480px; width: 100%;
+    border-top: 6px solid #21B14E;
+}
+h1 { color: #178a3c; font-weight: 700; font-size: 1.4rem; }
+.form-control { border-radius: 10px; padding: 12px 16px; border: 1.5px solid #e5e7eb; }
+.form-control:focus { border-color: #21B14E; box-shadow: 0 0 0 3px rgba(33,177,78,0.15); }
+.btn-guardar { background: #21B14E; color: white; padding: 12px; border-radius: 10px; border: 0; width: 100%; font-weight: 600; }
+.btn-guardar:hover { background: #178a3c; color: white; }
+.nota-bienvenida {
+    background: #fff8e1; border-left: 4px solid #ffc107;
+    padding: 12px 14px; border-radius: 8px; font-size: 0.82rem; color: #6b5100;
+    margin-bottom: 18px;
+}
