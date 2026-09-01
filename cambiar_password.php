@@ -3,7 +3,7 @@
 // PORTAL CLIENTE - CAMBIAR CONTRASEÑA
 // ----------------------------------------------------------------------------
 // El cliente llega aquí automáticamente la primera vez (forzado por
-// auth_cliente.php). También puede entrar voluntariamente desde su perfil.
+// auth_cliente.php). También puede entrar voluntariamente desde su perfil..
 // ============================================================================
 
 session_start();
